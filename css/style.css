@@ -63,7 +63,7 @@ body{
 /* ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ */
 /* ــــــHEADـــــ */
     body .CRUDS h1{
-        font-family: "Kalam", cursive;
+        font-family:  Georgia, 'Times New Roman', Times, serif;
         text-shadow : 3px 2px 4px rgb(255, 197, 98);
         color: rgb(56, 40, 110);
         font-size: 40px !important;
@@ -75,7 +75,7 @@ body{
     }
        
     body .CRUDS p{
-        font-family: "Kalam", cursive;
+        font-family:  Georgia, 'Times New Roman', Times, serif;
         font-weight: 800;
         text-shadow : 3px 2px 4px rgb(244, 192, 97);
         color: rgb(56, 40, 110);
